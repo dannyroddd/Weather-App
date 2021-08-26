@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://www.cambridge.org/elt/blog/wp-content/uploads/2019/02/background-3268840_1920.jpg");
+    background-size: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-style: bold;
+    color: black;
+    text-shadow: 1px 1px gray;
+}
+
+
+header{
+    background-color: rgb(61, 192, 192);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: gold;
+    text-shadow: 3px 3px goldenrod;
+    font-style: oblique;
+}
+
+h3{
+    color: gold;
+    font-size: 28px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-shadow: 2px 2px goldenrod;
+}
+
+#button{
+    color: black;
+    background-color:rgb(51, 209, 209) ;
+    box-shadow: 3px 3px rgb(67,120,158);
+    border-radius: 7px; 
+    font-weight: bold;
+  }
+
+  #searchBar{
+    box-shadow: 2px 2px rgb(67,120,158);
+    border-radius: 3px; 
+  }
+
+
